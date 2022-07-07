@@ -16,7 +16,9 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
-PROJECT - 
+PROJECT - With this project, our objective was to create a quiz using the skills and techniques 
+taught in Module 4 of the Coding Bootcamp. Web API's, Javascript, HTML and CSS were used to create 
+an interactive quiz. 
 
 SCREENSHOTS - 
 
